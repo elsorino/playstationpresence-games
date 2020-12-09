@@ -7,6 +7,7 @@ ps5:
   - PPSA01387_00 # NBA 2K21
   - PPSA01411_00 # Spider-Man: Miles Morales
   - PPSA01502_00 # Bugsnax
+  - PPSA01527_00 # Worms Rumble PS4 & PS5
 ps4:
   - CUSA05218_00 # For Honor
   - CUSA13632_00 # Hollow Knight Voidheart Edition
@@ -74,6 +75,9 @@ ps4:
   - CUSA14836_00 # Catherine: Full Body (US)
   - CUSA04551_00 # NieR: Automata™ Game of the YoRHa Edition (US)
   - CUSA04459_00 # Watch Dogs 2
+  - CUSA16596_00 # Cyberpunk 2077
+  - CUSA09264_00 # Just Cause 4
+  - CUSA18700_00 # Rocket Arena
 
 ps3:
 
