@@ -9,6 +9,7 @@ ps5:
   - PPSA01502_00 # Bugsnax
   - PPSA01527_00 # Worms Rumble PS4 & PS5
 ps4:
+<<<<<<< HEAD
   - CUSA05218_00 # For Honor
   - CUSA13632_00 # Hollow Knight Voidheart Edition
   - CUSA16310_00 # NBA 2K20
@@ -32,6 +33,11 @@ ps4:
   - CUSA00900_00 # Bloodborne
   - CUSA02429_00 # Battlefield 1
   - CUSA00133_00 # Batman: Arkham Knight
+=======
+  - CUSA03642_00 # Dishonored 2
+  - CUSA00900_00 # Bloodborne
+  - CUSA12540_00 # Apex Legends
+>>>>>>> ec53337 (Update games.yml)
   - CUSA07022_00 # Fortnite
   - CUSA05042_00 # Destiny 2
   - CUSA11100_00 # Black Ops 4
