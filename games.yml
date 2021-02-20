@@ -10,10 +10,14 @@ ps5:
   - PPSA01527_00 # Worms Rumble PS4 & PS5
 ps4:
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f8d17bc (More PS Title Fetching)
   - CUSA05218_00 # For Honor
   - CUSA13632_00 # Hollow Knight Voidheart Edition
   - CUSA16310_00 # NBA 2K20
   - CUSA08793_00 # Dishonored: Death of the Outsider
+<<<<<<< HEAD
   - CUSA03642_00 # Dishonored 2
   - CUSA12540_00 # Apex Legends
   - CUSA00359_00 # Until Dawn
@@ -34,10 +38,30 @@ ps4:
   - CUSA02429_00 # Battlefield 1
   - CUSA00133_00 # Batman: Arkham Knight
 =======
+=======
+>>>>>>> f8d17bc (More PS Title Fetching)
   - CUSA03642_00 # Dishonored 2
-  - CUSA00900_00 # Bloodborne
   - CUSA12540_00 # Apex Legends
+<<<<<<< HEAD
 >>>>>>> ec53337 (Update games.yml)
+=======
+  - CUSA00359_00 # Until Dawn
+  - CUSA00341_00 # UNCHARTED 4: A Thief's End
+  - CUSA00552_00 # The Last Of Us Remastered
+  - CUSA03627_00 # The Last Guardian
+  - CUSA03962_00 # RESIDENT EVIL 7 biohazard
+  - CUSA01047_00 # Ratchet & Clank
+  - CUSA00967_00 # Mortal Kombat X
+  - CUSA07713_00 # MONSTER HUNTER: WORLD
+  - CUSA00223_00 # inFamous Second Son
+  - CUSA01633_00 # FINAL FANTASY XV ROYAL EDITION
+  - CUSA02557_00 # Fallout 4
+  - CUSA08344_00 # Detroit: Become Human
+  - CUSA08966_00 # Days Gone
+  - CUSA07402_00 # Crash Bandicoot N. Sane Trilogy
+  - CUSA00900_00 # Bloodborne
+  - CUSA02429_00 # Battlefield 1
+  - CUSA00133_00 # Batman: Arkham Knight
   - CUSA07022_00 # Fortnite
   - CUSA05042_00 # Destiny 2
   - CUSA11100_00 # Black Ops 4
