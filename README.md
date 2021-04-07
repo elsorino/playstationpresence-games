@@ -1,4 +1,4 @@
-# PlayStationDiscord-Games
+# playstationpresence-Games
 
 Games which are supported for [playstationpresence](https://github.com/elsorino/playstationpresence).
 
@@ -31,8 +31,8 @@ Games which are supported for [playstationpresence](https://github.com/elsorino/
 |<img src="ps5/PPSA02050_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops Cold War - Cross-Gen Bundle PS4 & PS5|
 |<img src="ps5/PPSA02743_00.png?raw=true" width="100" height="100">|Can't Drive This                                              |
 |<img src="ps5/PPSA02184_00.png?raw=true" width="100" height="100">|Chivalry 2 PS4 & PS5                                          |
-|<img src="ps5/PPSA02277_00.png?raw=true" width="100" height="100">|Concept Destruction PS4 & PS5                                 |
 |<img src="ps5/CUSA18965_00.png?raw=true" width="100" height="100">|Concept Destruction PS4 & PS5                                 |
+|<img src="ps5/PPSA02277_00.png?raw=true" width="100" height="100">|Concept Destruction PS4 & PS5                                 |
 |<img src="ps5/PPSA01951_00.png?raw=true" width="100" height="100">|Control: Ultimate Edition                                     |
 |<img src="ps5/PPSA02433_00.png?raw=true" width="100" height="100">|Crash Bandicoot™ 4: It’s About Time                           |
 |<img src="ps5/PPSA02753_00.png?raw=true" width="100" height="100">|Crimsonland                                                   |
@@ -65,25 +65,6 @@ Games which are supported for [playstationpresence](https://github.com/elsorino/
 |<img src="ps4/CUSA13632_00.png?raw=true" width="100" height="100">|Hollow Knight                                                 |
 |<img src="ps4/CUSA16310_00.png?raw=true" width="100" height="100">|NBA 2K20                                                      |
 |<img src="ps4/CUSA08793_00.png?raw=true" width="100" height="100">|Dishonored®: Death of the Outsider™                           |
-|<img src="ps4/CUSA03642_00.png?raw=true" width="100" height="100">|Dishonored 2                                                  |
-|<img src="ps4/CUSA12540_00.png?raw=true" width="100" height="100">|Apex Legends                                                  |
-|<img src="ps4/CUSA00359_00.png?raw=true" width="100" height="100">|Until Dawn™                                                   |
-|<img src="ps4/CUSA00341_00.png?raw=true" width="100" height="100">|Uncharted 4: A Thief’s End™                                   |
-|<img src="ps4/CUSA00552_00.png?raw=true" width="100" height="100">|The Last of Us™ Remastered                                    |
-|<img src="ps4/CUSA03627_00.png?raw=true" width="100" height="100">|The Last Guardian™                                            |
-|<img src="ps4/CUSA03962_00.png?raw=true" width="100" height="100">|RESIDENT EVIL 7 biohazard                                     |
-|<img src="ps4/CUSA01047_00.png?raw=true" width="100" height="100">|Ratchet & Clank™                                              |
-|<img src="ps4/CUSA00967_00.png?raw=true" width="100" height="100">|Mortal Kombat X                                               |
-|<img src="ps4/CUSA07713_00.png?raw=true" width="100" height="100">|Monster Hunter World: Iceborne                                |
-|<img src="ps4/CUSA00223_00.png?raw=true" width="100" height="100">|inFAMOUS Second Son™                                          |
-|<img src="ps4/CUSA01633_00.png?raw=true" width="100" height="100">|FINAL FANTASY XV                                              |
-|<img src="ps4/CUSA02557_00.png?raw=true" width="100" height="100">|Fallout 4                                                     |
-|<img src="ps4/CUSA08344_00.png?raw=true" width="100" height="100">|Detroit: Become Human™                                        |
-|<img src="ps4/CUSA08966_00.png?raw=true" width="100" height="100">|DAYS GONE                                                     |
-|<img src="ps4/CUSA07402_00.png?raw=true" width="100" height="100">|Crash Bandicoot N. Sane Trilogy                               |
-|<img src="ps4/CUSA00900_00.png?raw=true" width="100" height="100">|Bloodborne™                                                   |
-|<img src="ps4/CUSA02429_00.png?raw=true" width="100" height="100">|Battlefield™ 1                                                |
-|<img src="ps4/CUSA00133_00.png?raw=true" width="100" height="100">|BATMAN™: ARKHAM KNIGHT                                        |
 |<img src="ps4/CUSA03642_00.png?raw=true" width="100" height="100">|Dishonored 2                                                  |
 |<img src="ps4/CUSA12540_00.png?raw=true" width="100" height="100">|Apex Legends                                                  |
 |<img src="ps4/CUSA00359_00.png?raw=true" width="100" height="100">|Until Dawn™                                                   |
