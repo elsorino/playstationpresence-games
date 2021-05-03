@@ -8,6 +8,8 @@ ps5:
   - PPSA01411_00 # Spider-Man: Miles Morales
   - PPSA01502_00 # Bugsnax
   - PPSA01527_00 # Worms Rumble PS4 & PS5
+  - PPSA02048_00 # Dead By Daylight: Special Edition PS4 & PS5
+ps4:
 ps4:
   - CUSA05218_00 # For Honor
   - CUSA13632_00 # Hollow Knight Voidheart Edition
@@ -78,3 +80,5 @@ ps4:
   - CUSA16596_00 # Cyberpunk 2077
   - CUSA09264_00 # Just Cause 4
   - CUSA18700_00 # Rocket Arena
+  - CUSA18774_00 # Nier Replicant ver.1.22
+  - CUSA13338_00 # DOOM Eternal 
